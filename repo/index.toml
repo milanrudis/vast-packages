@@ -6,3 +6,17 @@ version = "0.1.0"
 description = "My first VPK package"
 url = "https://raw.githubusercontent.com/milanrudis/vast-packages/main/packages/hello-0.1.0.vpk"
 sha256 = "b603d2c9c0caea9baf3d464b801ac5a9e407651e63567acceb03865ecca13d62"
+
+[[package]]
+name = "test-base"
+version = "1.0.0"
+description = "Base package for VPK dependency testing"
+url = "https://raw.githubusercontent.com/milanrudis/vast-packages/vpk-dependency-test/packages/test-base-1.0.0.vpk"
+sha256 = "cc8f93adc96e0e009be949b6514615f830f4c1aa49445341f3221c7726d50266"
+
+[[package]]
+name = "test-app"
+version = "1.0.0"
+description = "Application for VPK dependency testing"
+url = "https://raw.githubusercontent.com/milanrudis/vast-packages/vpk-dependency-test/packages/test-app-1.0.0.vpk"
+sha256 = "c9ab620b9a4ac355366d4ebe8f6740e136cf0f02bed9051ee6bb3dbcba462c85"
