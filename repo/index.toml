@@ -1,2 +1,8 @@
 # Vast Linux package repository index
-# Packages will be listed here!
+
+[[package]]
+name = "hello"
+version = "0.1.0"
+description = "My first VPK package"
+url = "https://raw.githubusercontent.com/milanrudis/vast-packages/main/packages/hello-0.1.0.vpk"
+sha256 = "b603d2c9c0caea9baf3d464b801ac5a9e407651e63567acceb03865ecca13d62"
