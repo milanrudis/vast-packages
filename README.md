@@ -8,4 +8,3 @@ The official package repository for Vast Linux and VPK.
 - `packages/` — VPK package archives
 
 This repository is under development.
-# vast-packages
